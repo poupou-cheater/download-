@@ -1,0 +1,10 @@
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension esbenp.prettier-vscode
+code --install-extension CecilyJansen.blue-dragon
+code --install-extension formulahendry.code-runner
+code --install-extension pucelle.vscode-css-navigation
+code --install-extension ritwickdey.LiveServer
+code --install-extension christian-kohler.path-intellisense
+code --install-extension ms-python.python
+code --install-extension natqe.reload
+code --install-extension austenc.tailwind-docs
